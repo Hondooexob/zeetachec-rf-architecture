@@ -1,5 +1,3 @@
-#pragma once
-
 #include <Arduino.h>
 #include "ZeetaAcomms16.h"
 
